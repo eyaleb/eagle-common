@@ -1,1 +1,1 @@
-# eagle-common
+Common stuff used with eagle projects
